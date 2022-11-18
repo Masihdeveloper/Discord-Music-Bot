@@ -125,7 +125,7 @@ client.on('ready', () => {
 	});
 });
 client.login(
-	'OTI5MDI3NDk0MTQ3OTI0MDQ5.GJOP8e.L2iwe7djYJR6VawCnBfi_klYlcBRrJ44n_OZ1w'
+	'TOKEN'
 );
 
 client.on('ready', () => {
