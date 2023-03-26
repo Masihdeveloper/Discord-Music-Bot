@@ -1,0 +1,12 @@
+{
+ "TOKEN": "YOUR BOT TOKEN",
+ "YOUTUBE_API_KEY": "YOUR YOUTUBE API KEY",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PREFIX": "YOUR PREFIX",
+  "LOCALE": "en",
+  "support_server": "https://discord.gg/ttmZpw7fyj",
+  "PRUNING": false,
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
+}
