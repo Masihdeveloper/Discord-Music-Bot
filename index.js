@@ -109,7 +109,7 @@ client.on('message', async message => {
 		message.reply(i18n.__('common.errorCommend')).catch(console.error);
 	}
 });
-const server = require('./server.js');
+
 client.on('ready', () => {
 	function status() {
 		let go = [`+help | Made by Masih#0258`, `High Quality Songs`];
