@@ -1,7 +1,7 @@
 /**
  * GitHub: https://github.com/masihdeveloper | Don't forget to ⭐
  * Website: https://masihdev.ir
- * Module Imports:
+ * Module Imports
  */
 const { Client, Collection } = require("discord.js");
 const { readdirSync } = require("fs");
